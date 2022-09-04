@@ -47,3 +47,7 @@ Abstrações
 - Uma das abstrações mais importantes é a interface entre o hardware e o software de nível mais baixo: Arquitetura do Conjunto de Instruções (ISA - Instruction Set Architecture), ela determina o que o processador é capaz de fazer, o que é possível solicitar em termos de registrador, instrução, em forma de acesso a memória, em torno de entrada e saída.
 - Interface binária da aplicação: ISA mais interface de sistema de software, ou seja, o que é necessário no Sistema Operacional para acessar essas funções.
 - Implementação: O hardware que obedece a abstração de uma ISA.
+
+Desenvolvimento da tecnologia
+
+- Lei de Moore: "capacidade em transistores dobra a cada 18 a 24 meses"
